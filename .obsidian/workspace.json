@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "9a611e17a0a11954",
+    "type": "split",
+    "children": [
+      {
+        "id": "355a1cefc2ca9698",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "517a43d6bc160d02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "4e13c75087ef7970",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tooling, Testing, Deployment, Ops.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tooling, Testing, Deployment, Ops"
+            }
+          },
+          {
+            "id": "fabc1204ddaabd86",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "e727c917b773d823",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "db15fef31edf93f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "af1c83cc93eae11a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fca820cccbfa4583",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "df3c4f0c8934cc45",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "dbeb9ff285ea69e2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a82b7a11aa3cca5c",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb9583f33cc516d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19016ba8f4a00e89",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "686a2d7507250bad",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "1b85337fd2c56bd4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "458f33d57f9df571",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "e727c917b773d823",
+  "lastOpenFiles": [
+    "README.md",
+    "Tooling, Testing, Deployment, Ops.md",
+    "CONCEPTS/Concepts.md",
+    "AI&ML integration.md",
+    "AI/ML integration.md",
+    "AI",
+    "Hardware & Control.md",
+    "Perception or Vision.md",
+    "SLAM & Mapping.md",
+    "Untitled.md",
+    "Untitled",
+    "PLAN",
+    "PLAN/Navigation & Localization.md",
+    "MOVEIT2/Motion planning (manipulators).md",
+    "MOVEIT2",
+    "ROS2/Modeling & Simulation.md",
+    "CODE/Programming(C++ and Python).md",
+    "CODE",
+    "ROS2/ROS 2 FrameWork.md",
+    "ROS2",
+    "CONCEPTS"
+  ]
+}
