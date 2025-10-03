@@ -1,0 +1,1 @@
+Content coming soon. This section will outline ROS2 SLAM & Mapping plans: objectives, chosen packages (slam_toolbox, Nav2), datasets, mapping workflow, evaluation metrics, and next tasks. Draft in progress.

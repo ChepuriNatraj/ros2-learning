@@ -1,0 +1,1 @@
+Content coming soon. This section will be expanded with detailed ROS 2 framework notes (architecture, nodes, topics, services, actions, parameters).

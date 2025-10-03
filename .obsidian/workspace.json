@@ -20,43 +20,8 @@
               "icon": "lucide-file",
               "title": "README"
             }
-          },
-          {
-            "id": "4e13c75087ef7970",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tooling, Testing, Deployment, Ops.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tooling, Testing, Deployment, Ops"
-            }
-          },
-          {
-            "id": "fabc1204ddaabd86",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "e727c917b773d823",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,11 +166,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "e727c917b773d823",
+  "active": "517a43d6bc160d02",
   "lastOpenFiles": [
+    "ROS2/ROS 2 FrameWork.md",
+    "CONCEPTS/Concepts.md",
+    "CODE/Programming(C++ and Python).md",
+    "CONCEPTS/Hardware & Control.md",
+    "CONCEPTS/Tooling, Testing, Deployment, Ops.md",
+    "MOVEIT2/Motion planning (manipulators).md",
+    "PLAN/Navigation & Localization.md",
+    "PLAN/SLAM & Mapping.md",
+    "ROS2/Modeling & Simulation.md",
+    "AI&ML/AI&ML integration.md",
+    "AI&ML/Perception or Vision.md",
     "README.md",
     "Tooling, Testing, Deployment, Ops.md",
-    "CONCEPTS/Concepts.md",
     "AI&ML integration.md",
     "AI/ML integration.md",
     "AI",
@@ -215,13 +190,8 @@
     "Untitled.md",
     "Untitled",
     "PLAN",
-    "PLAN/Navigation & Localization.md",
-    "MOVEIT2/Motion planning (manipulators).md",
     "MOVEIT2",
-    "ROS2/Modeling & Simulation.md",
-    "CODE/Programming(C++ and Python).md",
     "CODE",
-    "ROS2/ROS 2 FrameWork.md",
     "ROS2",
     "CONCEPTS"
   ]
