@@ -47,12 +47,25 @@ This repository documents my learning journey in robotics from scratch. It conta
 
 ```
 ros2-learning/
-├── tutorials/          # Step-by-step tutorials and exercises
-├── projects/           # Complete robotics projects
-├── experiments/        # Code experiments and prototypes
-├── notes/             # Learning notes and documentation
-├── resources/         # Useful resources, links, and references
-└── README.md          # This file
+├── ROS2/                      # ROS2 Framework & Simulation
+│   ├── ROS 2 FrameWork.md
+│   └── Modeling & Simulation.md
+├── CODE/                      # Programming Resources
+│   └── Programming(C++ and Python).md
+├── MOVEIT2/                   # Motion Planning
+│   └── Motion planning (manipulators).md
+├── PLAN/                      # Navigation & Mapping
+│   ├── Navigation & Localization.md
+│   └── SLAM & Mapping.md
+├── AI&ML/                     # AI/ML Integration
+│   ├── AI&ML integration.md
+│   └── Perception or Vision.md
+├── CONCEPTS/                  # Core Concepts & Infrastructure
+│   ├── Concepts.md
+│   ├── Hardware & Control.md
+│   └── Tooling, Testing, Deployment, Ops.md
+├── .obsidian/                 # Obsidian workspace configuration
+└── README.md
 ```
 
 ## 🚀 Getting Started
