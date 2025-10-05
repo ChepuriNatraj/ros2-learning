@@ -79,7 +79,7 @@ ROS2-Revision/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/[your-username]/ROS2-Revision.git
+   git clone https://github.com/ChepuriNatraj/ROS2-Revision.git
    cd ROS2-Revision
    ```
 
@@ -133,15 +133,9 @@ This is primarily a personal revision repository, but contributions are welcome!
 
 ## 📞 Contact
 
-- **Email:** [your-email@domain.com]
-- **LinkedIn:** [your-linkedin-profile]
-- **GitHub:** [your-github-username]
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+- **Email:** chepurinatraj@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/chepurinatraj/
+- **GitHub:** ChepuriNatraj
 
 ---
 
@@ -157,3 +151,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 *"In robotics, every problem is an opportunity to learn something new about the intersection of hardware, software, and the physical world."*
 
 **Happy Learning! 🤖🚀**
+
+This will is still underprogress and it will be updated in progressive days
