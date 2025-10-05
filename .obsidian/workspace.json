@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "MOVEIT2/Motion planning (manipulators).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Motion planning (manipulators)"
+            }
+          },
+          {
+            "id": "6122ceb2c701cb73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CODE/Programming(C++ and Python).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Programming(C++ and Python)"
+            }
+          },
+          {
+            "id": "39fd124ea0378543",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Building Tools.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Building Tools"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -166,20 +195,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "517a43d6bc160d02",
+  "active": "39fd124ea0378543",
   "lastOpenFiles": [
+    "CODE/Programming(C++ and Python).md",
+    "Building Tools.md",
+    "CONCEPTS/Hardware & Control.md",
+    "MOVEIT2/Motion planning (manipulators).md",
+    "MOVEIT2.md",
+    "README.md",
     "ROS2/ROS 2 FrameWork.md",
     "CONCEPTS/Concepts.md",
-    "CODE/Programming(C++ and Python).md",
-    "CONCEPTS/Hardware & Control.md",
     "CONCEPTS/Tooling, Testing, Deployment, Ops.md",
-    "MOVEIT2/Motion planning (manipulators).md",
     "PLAN/Navigation & Localization.md",
     "PLAN/SLAM & Mapping.md",
     "ROS2/Modeling & Simulation.md",
     "AI&ML/AI&ML integration.md",
     "AI&ML/Perception or Vision.md",
-    "README.md",
     "Tooling, Testing, Deployment, Ops.md",
     "AI&ML integration.md",
     "AI/ML integration.md",
@@ -187,7 +218,6 @@
     "Hardware & Control.md",
     "Perception or Vision.md",
     "SLAM & Mapping.md",
-    "Untitled.md",
     "Untitled",
     "PLAN",
     "MOVEIT2",
